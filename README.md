@@ -1,1 +1,1 @@
-# JS-Practice
+# Taskify-react-js-typescript
